@@ -1,0 +1,5 @@
+Client :
+pyautogui
+Server:
+pyautogui
+keyboard
